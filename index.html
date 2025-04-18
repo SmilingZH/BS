@@ -1,0 +1,40 @@
+<!doctype html>
+<!-- 
+  HTML入口文件
+  此文件是应用的HTML入口点，定义了基本的HTML结构和应用挂载点
+  
+  结构说明：
+  1. 文档类型声明为HTML5
+  2. 设置语言为英文
+  3. 包含必要的meta标签和视口设置
+  4. 提供一个id为"app"的div作为Vue应用的挂载点
+  5. 通过type="module"引入ES模块格式的入口脚本
+-->
+<html lang="en">
+
+<head>
+  <!-- 字符编码设置为UTF-8，支持多语言字符 -->
+  <meta charset="UTF-8" />
+  <!-- 网站图标，使用Vite默认图标 -->
+  <link rel="icon" type="image/svg+xml" href="./vite.svg" />
+  <!-- 视口设置，确保在移动设备上正确显示 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- 页面标题 -->
+  <title>SmilingZH</title>
+  <!-- 全局字体样式设置 -->
+  <style>
+    * {
+      font-family: "宋体", SimSun, serif !important;
+    }
+  </style>
+  <script type="module" crossorigin src="./assets/index-b3hg6jSf.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-MYSW1bcC.css">
+</head>
+
+<body>
+  <!-- Vue应用挂载点，main.ts中的createApp会将应用挂载到此元素 -->
+  <div id="app"></div>
+  <!-- 应用入口脚本，使用ES模块格式 -->
+</body>
+
+</html>
