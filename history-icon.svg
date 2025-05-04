@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Generator: Adobe Illustrator 29.3.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 146)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .2;
+      }
+
+      .st1 {
+        stroke: #8b4513;
+        stroke-width: .2px;
+      }
+
+      .st1, .st2 {
+        fill: #f2e8c9;
+      }
+
+      .st3 {
+        fill: #8b4513;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st2" x="5.2" y="4.9" width="13.6" height="14.2" rx="1" ry="1"/>
+    <g class="st0">
+      <path class="st1" d="M6.5,8.7h10.9"/>
+      <path class="st1" d="M6.5,12h10.9"/>
+      <path class="st1" d="M6.5,15.3h10.9"/>
+      <path class="st1" d="M9.3,6.2v11.7"/>
+      <path class="st1" d="M12,6.2v11.7"/>
+      <path class="st1" d="M14.7,6.2v11.7"/>
+    </g>
+  </g>
+  <g>
+    <path class="st3" d="M4.5,17.8h15c.9,0,1.7.4,1.7.8h0c0,.5-.7.8-1.7.8H4.5c-.9,0-1.7-.4-1.7-.8h0c0-.5.7-.8,1.7-.8Z"/>
+    <ellipse class="st3" cx="2.8" cy="18.7" rx=".8" ry=".4"/>
+    <ellipse class="st3" cx="21.2" cy="18.7" rx=".8" ry=".4"/>
+  </g>
+  <g>
+    <path class="st3" d="M4.5,4.5h15c.9,0,1.7.4,1.7.8h0c0,.5-.7.8-1.7.8H4.5c-.9,0-1.7-.4-1.7-.8h0c0-.5.7-.8,1.7-.8Z"/>
+    <ellipse class="st3" cx="2.8" cy="5.3" rx=".8" ry=".4"/>
+    <ellipse class="st3" cx="21.2" cy="5.3" rx=".8" ry=".4"/>
+  </g>
+</svg>
